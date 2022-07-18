@@ -89,4 +89,4 @@ void insertion_sort_list(listint_t **list)
 	}
 	while ((*list)->prev != NULL)
 		*list = (*list)->prev;
-}i
+}
